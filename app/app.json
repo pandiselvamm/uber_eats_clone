@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Uber Clone 004",
+    "slug": "uber-clone-004",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "web"
+    ],
+    "icon": "./assets/icons/home.png",
+    "version": "1.0.0",
+    "orientation": "portrait"
+  }
+}
